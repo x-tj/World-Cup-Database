@@ -15,3 +15,6 @@ Took constraints into consideration when creating the Bash script to insert all 
 
 
 Finished by writing a Bash script that utilises SQL to query the database and obtain useful values.
+
+![image](https://github.com/user-attachments/assets/8ec09af7-136b-44a7-834a-2ee6bdefbdfc)
+
